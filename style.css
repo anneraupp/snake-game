@@ -6,17 +6,19 @@ body{
     align-items: center;
     margin-top: 50px;
     width: 100%;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:  Helvetica, sans-serif;
 }
 
 h5 {
     font-size: 14px;
-    font-weight:lighter;
+    font-weight:normal;
     margin: 10px 0;
 }
 
 h1 {
     margin: 10px;
+    font-family:  Helvetica, sans-serif;
+    font-weight: normal;
 }
 
 header {
@@ -24,10 +26,10 @@ header {
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    position: relative;
-    justify-content: center;
+    
 }
 
 footer {
     margin: 15px;
+    font-size: 12px;
 }
