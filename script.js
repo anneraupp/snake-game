@@ -67,7 +67,6 @@ function iniciarJogo() {
     }
 
     
-
     let newHead = {
         x: snakeX,
         y: snakeY
